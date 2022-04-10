@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">¡Hola! Qué gusto verte de nuevo.</string>
+    <string name="recuperar_pass">¿Has olvidado tu contraseña?</string>
+    <string name="boton_registrate">Registrate</string>
+    <string name="registrate_titulo">Registrate</string>
+    <string name="app_name_1">Restaurant siglo XXI</string>
+</resources>
